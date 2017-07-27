@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "../../../../../lib/pkp/dtd/locale.dtd">
+
+<!--
+  * plugins/blocks/journalInfo/locale/en_US/locale.xml
+  * Jean
+  -->
+ 
+<locale name="en_US" full_name="U.S. English">
+	<message key="plugins.block.journalInfo.displayName">Journal Information</message>
+	<message key="plugins.block.journalInfo.description">This plugin provides sidebar journal information link.</message>
+	<message key="plugins.block.journalInfo.link">Journal Information</message>
+</locale>

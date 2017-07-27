@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "../../../../../lib/pkp/dtd/locale.dtd">
+
+<!--
+  * plugins/blocks/journalInfo/locale/zh_CN/locale.xml
+  * Jean
+  -->
+ 
+<locale name="zh_CN" full_name="简体中文">
+	<message key="plugins.block.journalInfo.displayName">刊物信息</message>
+	<message key="plugins.block.journalInfo.description">本插件在边栏显示刊物信息链接。</message>
+	<message key="plugins.block.journalInfo.link">刊物信息</message>
+</locale>
